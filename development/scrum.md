@@ -6,7 +6,8 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Différence entre Agile et SCRUM ❌ / ✔️
+- Différence entre Agile et SCRUM ✔️
+SCRUM est une des méthodes agile.
 - Expliquer les différents rituels et leur intérêt : ❌ / ✔️
   - Daily Stand Up
   - Sprint planning
