@@ -107,28 +107,30 @@ console.log(displayMessage(activities))
 
 [lien github]https://github.com/AnasMama/lyrics-guesser-backend.git
 
-Description :
+Description : Backend réalisé avec typescript et express.
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable ✔️
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
-Description :
+Description : En entreprise, j'utilise typescript avec svelte.
 
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
 - lien
+- https://www.typescriptlang.org/
 - description
+- Doc officielle de typescript.
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ✔️
 
 Description:
 
